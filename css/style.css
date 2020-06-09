@@ -241,6 +241,11 @@ button:focus {
     .header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
       line-height: 70px; }
 
+      .sup {
+        color: red;
+        text-emphasis-style: italic;
+      }
+
 .top_menu {
   background: #f9f9ff; }
   .top_menu .header_social li {
